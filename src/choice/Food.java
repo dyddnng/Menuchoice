@@ -4,7 +4,7 @@ public class Food {
 	private String name;  //음식이름
  	private String flavor; //음식 맛
 	private String size;   //사이즈 : 대/중/소
-	private int num; //랜덤할때 비교해서 쓰려고
+	
 	
 	
 	public Food(String name, String flavor, String size, int num) {
